@@ -4,10 +4,10 @@ Complex view that recreates a side bar that could be implemented on any applicat
 
 # Table of Contents
 
-- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#general-info" >General Info</a>
-- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#technologies">Technologies</a>
-- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#ilustrations">Ilustrations</a>
-- <a href="https://github.com/sergiosepulveda09/GuessTheFlag/tree/main#inspirations">Inspiration</a>
+- <a href="https://github.com/sergiosepulveda09/SideBarMenu/tree/main#general-info" >General Info</a>
+- <a href="https://github.com/sergiosepulveda09/SideBarMenu/tree/main#technologies">Technologies</a>
+- <a href="https://github.com/sergiosepulveda09/SideBarMenu/tree/main#ilustrations">Ilustrations</a>
+- <a href="https://github.com/sergiosepulveda09/SideBarMenu/tree/main#inspirations">Inspiration</a>
 
 # General info
 
