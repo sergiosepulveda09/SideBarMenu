@@ -1,3 +1,4 @@
+
 #  Sidebar menu - UI View
 
 # Table of Contents
@@ -16,7 +17,7 @@ SwiftUI/Swift
 
 https://user-images.githubusercontent.com/66451506/124315998-ba429580-db29-11eb-93d3-e8655e9dc9db.mov
 
-<img width="1440" alt="Screen Shot 2021-07-02 at 11 35 45 AM" src="https://user-images.githubusercontent.com/66451506/124316002-be6eb300-db29-11eb-9d54-ee77125eebca.png">
+<img width="1414" alt="Screen Shot 2021-07-02 at 11 39 31 AM" src="https://user-images.githubusercontent.com/66451506/124316298-405edc00-db2a-11eb-85f4-8e497cb61b22.png">
 
 # Inspirations
 I have been learning different styles through tutorials! Thank you for everyone that makes learning content available for free. 
